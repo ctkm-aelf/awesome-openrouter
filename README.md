@@ -63,6 +63,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Shakespeare](#shakespeare)
 - [SillyTavern](#sillytavern)
 - [Skales](#skales)
+- [SoulForge](#soulforge)
 - [Space Agent](#space-agent)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
@@ -535,6 +536,18 @@ Local AI desktop agent for Windows, macOS & Linux. 15+ providers, Desktop Buddy,
 `chat` `productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/skalesapp/skales)
 
 [Documentation](https://docs.skales.app)
+
+---
+
+### [SoulForge](https://soulforge.proxysoul.com)
+
+<img src="./apps/soulforge/logo.png" alt="SoulForge logo" width="64" height="64">
+
+Graph-powered coding agent for the terminal. Edits code by symbol via AST, not find-and-replace.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/proxysoul/soulforge)
+
+[Documentation](https://soulforge.proxysoul.com/providers/overview#openrouter)
 
 ---
 

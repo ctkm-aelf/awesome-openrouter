@@ -498,6 +498,18 @@
     "dateAdded": "2026-03-26"
   },
   {
+    "slug": "soulforge",
+    "name": "SoulForge",
+    "description": "Graph-powered coding agent for the terminal. Edits code by symbol via AST, not find-and-replace.",
+    "url": "https://soulforge.proxysoul.com",
+    "docs": "https://soulforge.proxysoul.com/providers/overview#openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/proxysoul/soulforge",
+    "dateAdded": "2026-05-14"
+  },
+  {
     "slug": "space-agent",
     "name": "Space Agent",
     "description": "Free and open-source AI agent that builds your space right in the browser.",
