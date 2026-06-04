@@ -549,6 +549,18 @@
     "dateAdded": "2026-04-17"
   },
   {
+    "slug": "spokenly",
+    "name": "Spokenly",
+    "description": "Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick.",
+    "url": "https://spokenly.app",
+    "docs": "https://spokenly.app/docs",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-05-31"
+  },
+  {
     "slug": "stirrup",
     "name": "Stirrup",
     "description": "A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",

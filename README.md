@@ -67,6 +67,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Skales](#skales)
 - [SoulForge](#soulforge)
 - [Space Agent](#space-agent)
+- [Spokenly](#spokenly)
 - [Stirrup](#stirrup)
 - [VT Code](#vt-code)
 - [Warden](#warden)
@@ -586,6 +587,18 @@ Free and open-source AI agent that builds your space right in the browser.
 `productivity` `chat` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/agent0ai/space-agent)
 
 [Documentation](https://github.com/agent0ai/space-agent/blob/main/app/L0/_all/mod/_core/documentation/docs/agent/onscreen-agent-runtime.md)
+
+---
+
+### [Spokenly](https://spokenly.app)
+
+<img src="./apps/spokenly/logo.png" alt="Spokenly logo" width="64" height="64">
+
+Dictation app for macOS, Windows, and iOS, free when you bring your own API keys. Real-time and file transcription, plus optional AI text cleanup and rewriting using your own OpenRouter key and the model you pick.
+
+`productivity`
+
+[Documentation](https://spokenly.app/docs)
 
 ---
 
